@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:362
+#EXT-X-MEDIA-SEQUENCE:1  <-- Добавляем порядковый номер
+
+#EXTINF:361.0,
+audio.aac
+
+#EXTINF:1.0,
+B.m3u8
