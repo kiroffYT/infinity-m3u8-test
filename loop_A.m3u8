@@ -1,0 +1,9 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+
+#EXTINF:10.0,
+audio_A.aac
+
+#EXTINF:1.0,
+loop_B.m3u8
